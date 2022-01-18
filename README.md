@@ -1,10 +1,10 @@
 # logistics-tracker-shopify
-
+Built with Node.js, MongoDB and some basic HTML and JS
 <h2>How to use</h2>
 Download the repo to your computer. If you do not have node or npm you will need to download them.<br /><br />
 Once you have those installed, you should run "npm install" to install the dependencies.<br /><br />
 Open the console on your computer, navigate to the main project directory, and run "npm run dev".<br /><br />
-Open your browser and go to "http://localhost:5000/". <br /><br />I would recommend you open the console for your browser. 
+Open your browser and go to "http://localhost:5000/". <br /><br />I would recommend you open the console in your browser. 
 Some of the HTTP methods used (the ones not supported by HTML forms) will only show immediate feedback in the console.
 You can interact with each of the elements in the UI.  Some will log in the console. 
 Some will take you to a separate page where the JSON from the backend/database calls is rendered.
