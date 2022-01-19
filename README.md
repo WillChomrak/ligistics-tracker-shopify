@@ -12,7 +12,7 @@ When this happens just press the "back" button to return to the main page.
 The front-end is truely terrible and a UI nightmare. But the back-end code is good. At least I think so.
 
 
-<h2>What can improve</h2>
+<h2>What can be improved</h2>
 <ul>
 <li>Add a .env file to hide mongoDB access keys and other environment variables</li>
 <li>Populate the "Warehouse" drop downs with the growing list of Warehouses in the database. This would require a GET request to get the current Warehouse records, and some front end JS to dynamically populate the form <option> tags.</li>
